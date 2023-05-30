@@ -1,0 +1,10 @@
+﻿  list.cpp
+  main.cpp
+  menu.cpp
+  MiniGit.cpp
+  node.cpp
+C:\Users\Odo\Desktop\[ATM][POO][2019-2020][Tema_1][C-112A][Odobesteanu Alexandru]\[ATM][POO][2019-2020][Tema_1][C-112A][Odobesteanu Alexandru]\Minigit\main.cpp(14,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  singleton.cpp
+  Generating Code...
+C:\Users\Odo\Desktop\[ATM][POO][2019-2020][Tema_1][C-112A][Odobesteanu Alexandru]\[ATM][POO][2019-2020][Tema_1][C-112A][Odobesteanu Alexandru]\Minigit\node.cpp(5,33): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Minigit.vcxproj -> C:\Users\Odo\Desktop\[ATM][POO][2019-2020][Tema_1][C-112A][Odobesteanu Alexandru]\[ATM][POO][2019-2020][Tema_1][C-112A][Odobesteanu Alexandru]\x64\Debug\Minigit.exe
